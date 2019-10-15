@@ -1,0 +1,51 @@
+.clicked {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: gold
+}
+
+.board {
+    color: white;
+    font-size: 30px;
+    font-family: 'Gill Sans MT';
+}
+
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 5px;
+    width: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 15px;
+}
+
+#easy {
+    background-color: #4CAF50;
+}
+
+#medium {
+    background-color: gold
+}
+
+#hard {
+    background-color: firebrick;
+}
+
+.clock {
+    margin-bottom: 300px;
+    color: aliceblue;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: rgb(94, 12, 94);
+}
